@@ -5,43 +5,43 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638640389491342996
-    m_Hash: 3674901345
+      ticks: 638640941274214863
+    m_Hash: 3266620274
   m_LockFileStatus:
     m_FilePath: C:/Users/ramir/OneDrive/Documentos/GitHub/RealidadVirtual_PracticasAll/Practica6/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638640389608666440
-    m_Hash: 1482668247
+      ticks: 638640941383544375
+    m_Hash: 933551132
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus:
-  - m_FilePath: C:\Users\ramir\OneDrive\Documentos\GitHub\RealidadVirtual_PracticasAll\Practica6\Packages\com.ptc.vuforia.engine-10.25.4.tgz/package.json
+  - m_FilePath: C:\Users\ramir\OneDrive\Documentos\GitHub\RealidadVirtual_PracticasAll\Practica6\Packages\com.ptc.vuforia.engine-10.27.3.tgz/package.json
     m_PathExists: 0
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
       ticks: 0
     m_Hash: 0
-  - m_FilePath: C:\Users\ramir\OneDrive\Documentos\GitHub\RealidadVirtual_PracticasAll\Practica6\Packages\com.ptc.vuforia.engine-10.25.4.tgz
+  - m_FilePath: C:\Users\ramir\OneDrive\Documentos\GitHub\RealidadVirtual_PracticasAll\Practica6\Packages\com.ptc.vuforia.engine-10.27.3.tgz
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638567277640000000
-    m_Hash: 242160103
+      ticks: 638634667250000000
+    m_Hash: 2570809894
 m_ProjectPath: C:/Users/ramir/OneDrive/Documentos/GitHub/RealidadVirtual_PracticasAll/Practica6/Packages
 m_EditorVersion: 2022.3.25f1 (530ae0ba3889)
 m_ResolvedPackages:
-- packageId: com.ptc.vuforia.engine@file:C:\Users\ramir\OneDrive\Documentos\GitHub\RealidadVirtual_PracticasAll\Practica6\Packages\com.ptc.vuforia.engine-10.25.4.tgz
+- packageId: com.ptc.vuforia.engine@file:C:\Users\ramir\OneDrive\Documentos\GitHub\RealidadVirtual_PracticasAll\Practica6\Packages\com.ptc.vuforia.engine-10.27.3.tgz
   testable: 0
   isDirectDependency: 1
-  version: 10.25.4
+  version: 10.27.3
   source: 6
-  resolvedPath: C:\Users\ramir\OneDrive\Documentos\GitHub\RealidadVirtual_PracticasAll\Practica6\Library\PackageCache\com.ptc.vuforia.engine@b724a8714d15
+  resolvedPath: C:\Users\ramir\OneDrive\Documentos\GitHub\RealidadVirtual_PracticasAll\Practica6\Library\PackageCache\com.ptc.vuforia.engine@5c22b2884c76
   assetPath: Packages/com.ptc.vuforia.engine
   name: com.ptc.vuforia.engine
   displayName: Vuforia Engine AR
