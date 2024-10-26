@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="chocolate" size="1.000000 1.000000" />
+    <ImageTarget name="fruta" size="1.000000 1.000000" />
+    <ImageTarget name="miel" size="1.000000 1.000000" />
+    <ImageTarget name="bambu" size="1.000000 1.000000" />
+    <ImageTarget name="panda" size="1.000000 1.000000" />
     <ImageTarget name="oceano" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
